@@ -1,0 +1,9 @@
+system:index,area_2017_sqkm,area_2022_sqkm,change_sqkm,class_index,class_name,.geo
+0,0.02461703993470435,0.023450205657061407,-0.001166834277642942,0,Water,"{""type"":""MultiPoint"",""coordinates"":[]}"
+1,17.74109649880571,15.083152333437027,-2.657944165368683,1,Trees,"{""type"":""MultiPoint"",""coordinates"":[]}"
+2,0.5455188953288359,0.6449230032025205,0.09940410787368459,2,Grass,"{""type"":""MultiPoint"",""coordinates"":[]}"
+3,0.0,0.0,0.0,3,Flooded Vegetation,"{""type"":""MultiPoint"",""coordinates"":[]}"
+4,4.0923725660177785,2.8934258730802362,-1.1989466929375423,4,Crops,"{""type"":""MultiPoint"",""coordinates"":[]}"
+5,0.13770925610698628,0.09462863736506445,-0.04308061874192183,5,Shrub/Scrub,"{""type"":""MultiPoint"",""coordinates"":[]}"
+6,93.0673052518063,96.87511856874214,3.8078133169358352,6,Built Area,"{""type"":""MultiPoint"",""coordinates"":[]}"
+7,0.0064332244029923985,3.541109192792107E-4,-0.006079113483713188,7,Bare Ground,"{""type"":""MultiPoint"",""coordinates"":[]}"
